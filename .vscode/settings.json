@@ -1,3 +1,8 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+  "editor.quickSuggestions": false,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.parameterHints.enabled": false,
+  "editor.inlineSuggest.enabled": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.tabCompletion": "off"
 }
