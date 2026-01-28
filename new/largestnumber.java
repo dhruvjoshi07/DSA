@@ -5,13 +5,15 @@ public class largestnumber {
     public static int greatest(int num[]){
         int largest=Integer.MIN_VALUE;
         for(int i=0;i<num.length;i++){
-            if(largest<num[i]);
+            if(largest<num[i]){
             largest=num[i];
+            }
         }
-
+        return largest;
     }
     public static void main (String[]args){
         try(Scanner sc=new Scanner(System.in)){
+            int num[]=new int[6];
             System.out.print("Enter the first element:");
             num[0]=sc.nextInt();
             System.out.print("Enter the second element:");
@@ -24,8 +26,8 @@ public class largestnumber {
             num[4]=sc.nextInt();
             System.out.print("Enter the sixth element:");
             num[5]=sc.nextInt();
-            int num[]=new int[6];
-            greatest();
+            int max = greatest(num);
+            System.out.println("Largest number is: " + max);
         }
     }
 }
