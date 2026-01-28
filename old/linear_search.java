@@ -1,3 +1,4 @@
+package old;
 public class linear_search {
     public static linear(int)
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package old;
 // Que:Check number is prime or not
 /* 
 // (APPROACH_01)

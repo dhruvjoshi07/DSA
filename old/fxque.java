@@ -1,3 +1,4 @@
+
 /*
 // QUESTION01(Write a java method to compute the average of 3 numbers)
 public class fxque {
