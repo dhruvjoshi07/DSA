@@ -1,4 +1,4 @@
-public class a {
+public class patn {
     // public static void sqaurepattern(int n){
     //     for(int line=1;line<=n;line++){
     //         System.out.println("****");
