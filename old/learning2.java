@@ -1,4 +1,4 @@
-package old;
+
 /*import java.util.*;
 public class learning2{
     public static void main(String[] args) {

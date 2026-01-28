@@ -1,4 +1,4 @@
-package old;
+
 //nested loop
 /*APPROACH FOR PATTERNS=
  * lines(outer loop)

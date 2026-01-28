@@ -1,4 +1,4 @@
-package old;
+
 /* 
 // METHOD SCOPE
 public class Scope {

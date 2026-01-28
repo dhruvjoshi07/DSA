@@ -1,4 +1,4 @@
-package old;
+
 /* 
 // Question=1
 import java.util.*;

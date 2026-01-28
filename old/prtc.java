@@ -1,4 +1,4 @@
-package old;
+
 /* 
 // QUESTION=1
 public class prtc {
