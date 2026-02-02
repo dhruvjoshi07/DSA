@@ -1,4 +1,4 @@
-
+// It has to be done again
 // HOLLOW RECTANGLE
 public class advpatterns{
     public static void hollow_rectangle(int totalrows,int totalcolumn){
