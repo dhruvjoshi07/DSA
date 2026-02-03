@@ -22,3 +22,7 @@
                 mid==key FOUND
                 mid>key LEFT
                 mid<key  RIGHT
+
+
+*"Java: Clean Java Language Server Workspace
+for package

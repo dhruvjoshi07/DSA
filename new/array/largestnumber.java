@@ -1,3 +1,4 @@
+package array;
 // -infinity=in java it write Integer.MIN_VALUE
 // +infinty=in java it writes Integer.MAX_VALUE
 import java.util.*;

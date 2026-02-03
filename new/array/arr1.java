@@ -1,3 +1,4 @@
+package array;
 
 //SYNTAX: datatype arrayNmae[]=new dataType[size];
 
