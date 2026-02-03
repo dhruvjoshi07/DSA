@@ -1,3 +1,4 @@
+//This is a question of reverse Aarray and make the pairs of reveerse array
 package array;
 import java.util.*;
 public class revarray {
