@@ -9,6 +9,7 @@ public class BruteForce {
             for(int j=i;j<size;j++){
                 int curr=0;
                 for(int k=i;k<=j;k++){
+                    //subarray sum
                     curr+=arr[k];
                 }
                 System.out.print(curr+" ");
@@ -33,3 +34,5 @@ public class BruteForce {
         }
     }
 }
+//3nested loop ho or woh n tak jaye toh 
+//woh tc=0(n^3)
