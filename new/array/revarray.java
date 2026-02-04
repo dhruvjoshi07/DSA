@@ -12,7 +12,6 @@ public class revarray {
             n[last]=n[first];
             n[first]=temp;
             // swap
-
             first++;
             last--;
         }
@@ -74,4 +73,5 @@ public class revarray {
             pair(num,size);
         }
     }
+    
 

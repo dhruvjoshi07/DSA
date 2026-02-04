@@ -29,7 +29,6 @@ public class BruteForce {
                 arr[i]=sc.nextInt();
             }
             maxsum(arr,size);
-
             sc.close();
         }
     }

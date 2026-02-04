@@ -26,3 +26,7 @@
 
 *"Java: Clean Java Language Server Workspace
 for package
+
+**prefix[end]-prefix[start-1]
+prefix[i-1]+arr[i]
+subarray 
