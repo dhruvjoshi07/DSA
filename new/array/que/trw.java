@@ -5,10 +5,10 @@ package array;
  //elevation=height=[4,2,0,6,3,2,5]
  //We use "auxillary array" means helper
 //logic=trapped water=waterlevel-height[i]:it gives traped water
-public class impque {
+public class trw {
 //learning:single bar,double bar,ascending or descending bar=no trap
 
-    public static int trappedRainWaer(int height[]){
+    public static int trappedRainWater(int height[]){
         //cal left max boundry
         int leftmax[]=new int[height.length];
         leftmax[0]=height[0];
@@ -23,11 +23,18 @@ public class impque {
             rightmax[i]=Math.max(height[i],rightmax[i+1]);
         }
         //loop
+        int trappedwater=0;
+        for(int i=0;i<height.length;i++){
+            int waterlevel=Math.min(leftmax[i],rightmax[i]);
+            //waterlvl=min(leftmax,rightmax)
+            trappedwater+=waterlevel-height[i];
+        }
+        return trappedwater;
         
-        //waterlvl=min(leftmax,rightmax)
         //logic
     }
     public static void main(String[] args){
         int height []={4,2,0,6,3,2,5};
+        System.out.println(trappedRainWater(height));
     }
 }
