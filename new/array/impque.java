@@ -10,8 +10,20 @@ public class impque {
 
     public static int trappedRainWaer(int height[]){
         //cal left max boundry
+        int leftmax[]=new int[height.length];
+        leftmax[0]=height[0];
+        for(int i =1;i<height.length;i++){
+            leftmax[i]=Math.max(height[i],leftmax[i-1]);
+        }
+    
         //cal right max boundry
+        int rightmax[]=new int[height.length];
+        rightmax[height.length-1]=height[height.length-1];
+        for(int i=height.length-2;i>=0;i--){
+            rightmax[i]=Math.max(height[i],rightmax[i+1]);
+        }
         //loop
+        
         //waterlvl=min(leftmax,rightmax)
         //logic
     }
