@@ -1,4 +1,4 @@
-package array;
+package que;
 /*Que.Given n non negative intgers representing an elevaion map
  where the width of each bar is 1,compute how much water 
  it can trap after  raining*/
