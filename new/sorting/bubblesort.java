@@ -1,5 +1,7 @@
 package sorting;
 
 public class bubblesort {
-    public 
+    public static void main(String [] args){
+        
+    }
 }
