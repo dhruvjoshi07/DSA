@@ -1,22 +1,4 @@
--Data types in java
-    primitive-byte,short,char,boolean,int,long,flat,double
-    non-primitive-string,array,class,object and interface
--java is typed n strict language
--cuz of sizes in memory we decleare data types in java
-    short -take 2 bytes
-    char-take 2 bytes
--//(single line code) and /* */(multiple commands)
 
--Input in java  
-    next
-    nextline(jb hamme space bhi store krane ho)
-    nextLint
-    NextFloat
-    nextByte
-    nextDouble
-    nextBoolean
-    nextShort
-    nextLong
 -Scanner is class and we write
     Scanner sc=newscanner(System.in);
         but for this we write=import java.util.*;
