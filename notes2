@@ -17,6 +17,34 @@
     nextBoolean
     nextShort
     nextLong
+
+    -Scanner is class and we write
+    Scanner sc=newscanner(System.in);
+        but for this we write=import java.util.*;
+        *sc.close() last mei likhna padhta hai
+
+-3.14f=ham floting value ko number k baad f lagate kyuki tb java usko
+        double declare kr deta
+            ex.= float area_of_circle=3.14f*radius*radius
+
+
+-TYPE CONVERSION
+    conersion happens when:
+        a.type compatible
+        b.destination tpe > source type
+*byte->short->int->float->long->double
+    we can write int a;
+                long b=a;    (widening/implicit conversion)
+    we can write long a;
+                int b=a;     (its lossy conversion)
+
+
+-TYPE CASTING  (narrowing/explicit conversion)
+    suppose, float a=25.0;
+    we type, int b=a;           (show error)
+    but if , int b=(int)a;      [type casting]
+
+
 -*ARRAYS
     0-BASE Indexing (thats why we use 0 to 49 as 50 values.)
     Definition :list of elements of the same type placed in a contiguius memory location
