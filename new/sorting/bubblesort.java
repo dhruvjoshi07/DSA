@@ -1,5 +1,4 @@
 package sorting;
-import java.util.*;
 public class bubblesort {
     public static void sort(int arr[]){
         for(int turn=0;turn<arr.length-1;turn++){
@@ -25,15 +24,15 @@ logic:
 for(i=0 to n-2)
     for(j=0 to n-2-i)
 */
-    public static void main(String [] args){
-        try(Scanner sc=new Scanner(System.in)){
-            int arr[]=new int[50];
-            int size=5;
-            for(int i=0;i<size;i++){
-                arr[i]=sc.nextInt();
-            }
-            
-
+    public static void printarr(int arr[]){
+        for(int i=0;i<arr.length;i++){
+            System.out.print(arr[i]+" ");
         }
+        System.out.println();
+    }
+    public static void main(String [] args){
+            int arr[]={5,4,1,3,2};
+            sort(arr);
+            printarr(arr);
     }
 }
