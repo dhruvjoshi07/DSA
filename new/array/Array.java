@@ -4,7 +4,7 @@ package array;
 
 import java.util.*;
 
-public class arr1 {
+public class Array {
     public static void main(String[] args) {
       
     /*
