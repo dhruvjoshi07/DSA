@@ -3,3 +3,13 @@
  Selection sort(basic)
  Insertion sort(basic)
  Counting sort(Advanced)------------------>
+
+
+ **Bubble sort=5,4,1,3,2
+ 5 ko her kisi se compare kra and we got
+ 4 1 3 2 5
+ now 4 se compare
+ 1 3 2 4 5
+ now 3 ko compare
+ 1 2 3 4 5
+ we see now arr is sorted
