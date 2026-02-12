@@ -13,3 +13,6 @@
  now 3 ko compare
  1 2 3 4 5
  we see now arr is sorted
+logic:
+for(i=0 to n-2)
+    for(j=0 to n-2-i)
