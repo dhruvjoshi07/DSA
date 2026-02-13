@@ -77,5 +77,8 @@ public class AdvancedSorter {
         String[] words = {"Apple", "Pie", "Banana", "Kiwi"};
         bubbleSort(words, (a, b) -> Integer.compare(a.length(), b.length()));
         
+        
+        // Example 2: Sorting Integers in reverse order
+        Integer[] numbers = {5, 1, 9, 3};
     }
 }
