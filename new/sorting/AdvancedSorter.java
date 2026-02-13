@@ -80,5 +80,7 @@ public class AdvancedSorter {
         
         // Example 2: Sorting Integers in reverse order
         Integer[] numbers = {5, 1, 9, 3};
+        
+        bubbleSort(numbers, Comparator.reverseOrder());
     }
 }
