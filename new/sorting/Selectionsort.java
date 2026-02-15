@@ -1,8 +1,8 @@
 package sorting;
 import java.util.*;
 public class Selectionsort {
-    public void sort(int arr[]){
-
+    public void sort(int arr[],int size){
+        size=8;
     }
     public static void main(String args[]){
         try(Scanner sc= new Scanner(System.in)){
