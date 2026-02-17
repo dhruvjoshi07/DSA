@@ -8,5 +8,8 @@
   "editor.parameterHints.enabled": false,
   "editor.inlineSuggest.enabled": false,
   "editor.acceptSuggestionOnEnter": "off",
-  "editor.tabCompletion": "off"
+  "editor.tabCompletion": "off",
+  "files.watcherExclude": {
+    "**/target": true
+  }
 }
