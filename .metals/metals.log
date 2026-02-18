@@ -110,3 +110,124 @@ WARNING: Unmatched cancel notification for request id 51
 2026.02.17 23:25:01 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java
 2026.02.17 23:25:01 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/javalearning/new/binarysearch.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\.metals\.reports\metals-full\2026-02-17\r_qdox-error_23-24-42-077.md")
 2026.02.17 23:25:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.17 23:25:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.17 23:25:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.17 23:26:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.17 23:26:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.17 23:26:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.17 23:26:03 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/javalearning/new/binarysearch.java. Output:
+
+2026.02.17 23:26:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.17 23:26:03 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java
+2026.02.17 23:26:03 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/javalearning/new/binarysearch.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\.metals\.reports\metals-full\2026-02-17\r_qdox-error_23-24-42-077.md")
+2026.02.17 23:26:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.17 23:26:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.17 23:26:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.17 23:26:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.17 23:26:20 INFO  Shutting down server
+2026.02.17 23:26:20 INFO  Memory monitor stopped
+2026.02.17 23:26:20 INFO  shutting down Metals
+2026.02.17 23:26:20 INFO  Exiting server
+2026.02.18 14:24:23 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning' for client Visual Studio Code 1.109.4.
+2026.02.18 14:24:23 INFO  Memory monitor started
+2026.02.18 14:24:25 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.18 14:24:25 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:24:26 WARN  no build tool detected in workspace 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.18 14:24:26 WARN  Build server is not auto-connectable.
+2026.02.18 14:24:26 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java
+2026.02.18 14:24:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:24:29 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/javalearning/new/binarysearch.java. Output:
+
+2026.02.18 14:24:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:24:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+Feb 18, 2026 2:25:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.02.18 14:25:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+Feb 18, 2026 2:25:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Feb 18, 2026 2:25:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2026.02.18 14:25:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:02 INFO  Shutting down server
+2026.02.18 14:25:02 INFO  Memory monitor stopped
+2026.02.18 14:25:02 INFO  shutting down Metals
+2026.02.18 14:25:03 INFO  Exiting server
+2026.02.18 14:25:24 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning' for client Visual Studio Code 1.109.4.
+2026.02.18 14:25:24 INFO  Memory monitor started
+2026.02.18 14:25:26 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.18 14:25:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+Feb 18, 2026 2:25:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.02.18 14:25:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+Feb 18, 2026 2:25:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Feb 18, 2026 2:25:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Feb 18, 2026 2:25:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.02.18 14:25:29 WARN  no build tool detected in workspace 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.18 14:25:29 WARN  Build server is not auto-connectable.
+2026.02.18 14:25:29 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java
+2026.02.18 14:25:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:32 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/javalearning/new/binarysearch.java. Output:
+
+2026.02.18 14:25:32 INFO  time: code lens generation in 2.68s
+2026.02.18 14:25:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:34 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:34 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 14:25:46 INFO  Shutting down server
+2026.02.18 14:25:46 INFO  Memory monitor stopped
+2026.02.18 14:25:46 INFO  shutting down Metals
+2026.02.18 14:25:46 INFO  Exiting server
+2026.02.18 21:02:37 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning' for client Visual Studio Code 1.109.4.
+2026.02.18 21:02:37 INFO  Memory monitor started
+2026.02.18 21:02:39 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.18 21:02:39 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 21:02:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 21:02:40 WARN  no build tool detected in workspace 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.18 21:02:40 WARN  Build server is not auto-connectable.
+2026.02.18 21:02:40 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java
+2026.02.18 21:02:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 21:02:42 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/javalearning/new/binarysearch.java. Output:
+
+2026.02.18 21:02:42 INFO  time: code lens generation in 2.04s
+2026.02.18 21:02:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 21:02:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 21:03:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 21:03:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 21:03:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 21:03:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+Feb 18, 2026 9:03:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Feb 18, 2026 9:03:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Feb 18, 2026 9:03:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2026.02.18 21:03:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\binarysearch.java. Using fallback presentation compiler.
+2026.02.18 21:03:05 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\sorting\AdvancedSorter.java
+2026.02.18 21:03:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\sorting\AdvancedSorter.java. Using fallback presentation compiler.
+Feb 18, 2026 9:03:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2026.02.18 21:03:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\sorting\AdvancedSorter.java. Using fallback presentation compiler.
+2026.02.18 21:03:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\sorting\AdvancedSorter.java. Using fallback presentation compiler.
+2026.02.18 21:03:05 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/javalearning/new/sorting/AdvancedSorter.java. Output:
+
+2026.02.18 21:03:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\sorting\AdvancedSorter.java. Using fallback presentation compiler.
+2026.02.18 21:03:09 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\sorting\AdvancedSorter.java. Using fallback presentation compiler.
+2026.02.18 21:03:10 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\sorting\AdvancedSelectionSort.java
+2026.02.18 21:03:10 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\sorting\AdvancedSelectionSort.java. Using fallback presentation compiler.
+2026.02.18 21:03:10 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/javalearning/new/sorting/AdvancedSelectionSort.java. Output:
+
+2026.02.18 21:03:11 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\sorting\AdvancedSelectionSort.java. Using fallback presentation compiler.
+2026.02.18 21:03:11 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\sorting\AdvancedSelectionSort.java. Using fallback presentation compiler.
+2026.02.18 21:03:10 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\javalearning\new\sorting\AdvancedSelectionSort.java. Using fallback presentation compiler.

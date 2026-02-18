@@ -70,7 +70,7 @@ public class binarysearch {
             System.out.println("Element found at index: " + index);
     }
 }
-
+/* 
 //templete
 int left = 0, right = nums.length - 1;
 while (left <= right) {
@@ -84,3 +84,4 @@ while (left <= right) {
         right = mid - 1;
     }
 }
+    */

@@ -1,5 +1,18 @@
 package sorting;
-/*public class bubblesort {
+
+    /*Bubble sort=5,4,1,3,2
+ 5 ko her kisi se compare kra and we got
+ 4 1 3 2 5
+ now 4 se compare
+ 1 3 2 4 5
+ now 3 ko compare
+ 1 2 3 4 5
+ we see now arr is sorted
+logic:
+for(i=0 to n-2)
+    for(j=0 to n-2-i)
+*/
+public class bubblesort {
     public static void sort(int arr[]){
         for(int turn=0;turn<arr.length-1;turn++){
             for(int j=0;j<arr.length-1-turn;j++){
@@ -12,18 +25,6 @@ package sorting;
 
         }
     }
-    /*Bubble sort=5,4,1,3,2
- 5 ko her kisi se compare kra and we got
- 4 1 3 2 5
- now 4 se compare
- 1 3 2 4 5
- now 3 ko compare
- 1 2 3 4 5
- we see now arr is sorted
-logic:
-for(i=0 to n-2)
-    for(j=0 to n-2-i)
-
     public static void printarr(int arr[]){
         for(int i=0;i<arr.length;i++){
             System.out.print(arr[i]+" ");
@@ -36,9 +37,8 @@ for(i=0 to n-2)
             printarr(arr);
     }
 }
- */
-
-// -----Advanced way---
+ 
+/* // -----Advanced way---
 import java.util.Comparator;
 
 public class AdvancedSorter {
@@ -48,6 +48,7 @@ public class AdvancedSorter {
      * @param array The array to be sorted
      * @param comparator The logic used to compare two elements
      */
+    /* 
     public static <T> void bubbleSort(T[] array, Comparator<? super T> comparator) {
         int n = array.length;
         boolean swapped;
@@ -84,3 +85,4 @@ public class AdvancedSorter {
         bubbleSort(numbers, Comparator.reverseOrder());
     }
 }
+*/

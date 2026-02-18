@@ -1,5 +1,5 @@
 package sorting;
-public class AdvancedSelectionSort {
+/*public class AdvancedSelectionSort {
 
     public static void selectionSortMinMax(int[] arr) {
         int left = 0;
@@ -52,6 +52,7 @@ public class AdvancedSelectionSort {
         }
     }
 }
+*/
 
 public class ProductPriceSort {
 
