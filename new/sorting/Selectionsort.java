@@ -3,7 +3,7 @@ import java.util.*;
 public class Selectionsort {
 
     //Main function of the selection sort
-    public static void sort(int arr[],int size){
+    public static void ssort(int arr[],int size){
         for(int i=0;i<size-1;i++){
             int minPos=i;
             for(int j=i+1;j<size;j++){
@@ -39,7 +39,7 @@ public class Selectionsort {
             }
 
             System.out.println("The sorted array is:");
-            sort(arr,size);
+            ssort(arr,size);
             printarr(arr,size);
 
             sc.close();

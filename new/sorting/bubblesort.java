@@ -13,7 +13,7 @@ for(i=0 to n-2)
     for(j=0 to n-2-i)
 */
 public class bubblesort {
-    public static void sort(int arr[]){
+    public static void bsort(int arr[]){
         for(int turn=0;turn<arr.length-1;turn++){
             for(int j=0;j<arr.length-1-turn;j++){
                 if(arr[j]>arr[j+1]){
@@ -33,7 +33,7 @@ public class bubblesort {
     }
     public static void main(String [] args){
             int arr[]={5,4,1,3,2};
-            sort(arr);
+            bsort(arr);
             printarr(arr);
     }
 }
