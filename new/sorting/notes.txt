@@ -44,3 +44,15 @@ ab 1 ko compare krenge sorted array k her element se
 1 3 4 5 2
 1 2 3 4 5
 ham temp mei daal rhe hai element
+
+
+**inbuilt sorting 
+    import java.util.Arrays;
+    Arrays.sort(arr)
+    0(n logn)
+    Arrays.sort(arr,si,ei)
+
+**Note:
+Arrays.sort(arr,o,size) ismei 0 ka mtlb oth index
+and agar hammei particular ek position se sort krna toh
+=Arrays.sort(arr,from,to)
