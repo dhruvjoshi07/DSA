@@ -62,3 +62,21 @@ and agar hammei particular ek position se sort krna toh
     Arrays.sort(arr,Collections.reverseOrder())
     or 
     Arrays.sort(arr,startingindex,endingindex,collections.reverseOrder())
+
+
+**counting sort
+    it checks the frequency of element ki woh kitni bar aya
+example=we have like 
+    1 4 1 3 2 4 3 7  //yha pr minimum hai 1 and max=7
+    ab ek array bnaya 0 to 7 and usmei bari bari value rakhi like
+    0th index->1
+    4th index-> 1 //kyuki 4 hai toh usko hamne count kra ki 4 hamare pass ek hai
+now,1 aya upar toh 1 hamne ek bar daal diya 0th index mei toh isko milkr 2 one ho gyaa so
+    0th index->2
+    phir eepat for 3,2,4,3,7
+    and we get from
+    1 4 1 3 2 4 3 7
+    to
+    0 2 1 1 1 0 0 1 //count kon kitni bar aya //beech mei 0 mtlb us index mei kuch ni hai
+now new array bnkr usmei dalte rho
+    1 1 2 3 3 4 4 7 //sorted
