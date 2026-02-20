@@ -8,7 +8,8 @@ public class effective {
         so ham 'Integer' use krenge taki Collection object pr kaam kre
         */
         Arrays.sort(arr,0,size,Collections.reverseOrder());
-    }
+        //comperator =reverseOrder()
+    }   
 
 
     public static void printarr(Integer arr[],int size){
