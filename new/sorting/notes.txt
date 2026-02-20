@@ -56,3 +56,9 @@ ham temp mei daal rhe hai element
 Arrays.sort(arr,o,size) ismei 0 ka mtlb oth index
 and agar hammei particular ek position se sort krna toh
 =Arrays.sort(arr,from,to)
+
+
+**inbuilt fx se hammei milega array in ascending but for descending we use
+    Arrays.sort(arr,Collections.reverseOrder())
+    or 
+    Arrays.sort(arr,startingindex,endingindex,collections.reverseOrder())
