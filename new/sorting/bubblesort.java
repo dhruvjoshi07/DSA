@@ -22,7 +22,6 @@ public class bubblesort {
                     arr[j+1]=temp;
                 }
             }
-
         }
     }
     public static void printarr(int arr[]){
