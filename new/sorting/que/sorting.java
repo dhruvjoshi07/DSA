@@ -1,7 +1,6 @@
 package sorting.que;
 /* 
-Question : Use the following sorting algorithms to sort an array in 
-DESCENDING order :
+Question : Use the following sorting algorithms to sort an array:
 a. Bubble Sort
 b. Selection Sort
 c. Insertion Sort
@@ -9,6 +8,7 @@ d. Counting Sort
 You can use this array as an example : [3, 6, 2, 1, 8, 7, 4, 5, 3, 1 ]
 */
 import java.util.*;
+// import java.util.Arrays                     #imported
 public class sorting {
     
     //BUBBLE SORT
@@ -74,11 +74,20 @@ public class sorting {
             }
         }
     }
+
+    //printing an array
     public static void printarr(int arr[],int size){
         for(int i=0;i<size;i++){
             System.out.print(arr[i]+" ");
         }
     }
+
+    public static void inbuilt(Integer arr[],int size){
+        Arrays.sort(arr,0,size,Collections.reverseOrder());
+    }
+
+
+    //Main function
     public static void main(String[] args){
         try(Scanner sc=new Scanner(System.in)){
             int arr[]=new int[50];
