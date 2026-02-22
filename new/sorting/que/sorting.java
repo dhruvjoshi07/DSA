@@ -170,5 +170,7 @@ public static void main(String[] args){
         else{
             System.out.println("Invalid Main Choice!");
         }
+        System.out.println("Thank you! Being here... ");
+        }
     }
 }
