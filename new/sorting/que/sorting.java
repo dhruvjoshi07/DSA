@@ -82,60 +82,93 @@ public class sorting {
         }
     }
 
+    //Inbuilt sorting
     public static void inbuilt(Integer arr[],int size){
         Arrays.sort(arr,0,size,Collections.reverseOrder());
     }
 
+    //printing an Inbuilt array
+    public static void printArr(Integer arr[],int size){
+        for(int i=0;i<size;i++){
+            System.out.print(arr[i]+" ");
+        }
+    }
+
 
     //Main function
-    public static void main(String[] args){
-        try(Scanner sc=new Scanner(System.in)){
-            int arr[]=new int[50];
+    //Main function
+public static void main(String[] args){
+    try(Scanner sc=new Scanner(System.in)){
 
-            System.out.print("Enter the array size: ");
-            int size=sc.nextInt();
+        int arr[]=new int[50];
+        Integer Arr[]=new Integer[50];
 
-            System.out.println("Enter the elements of array:");
+        System.out.print("Enter the array size: ");
+        int size=sc.nextInt();
+
+        System.out.println("Choose method:");
+        System.out.println("1). Standard Sorting (Bubble/Selection/Insertion/Counting)");
+        System.out.println("2). Inbuilt Sorting (Descending)");
+        int choice=sc.nextInt();
+
+        if(choice == 1){
+
+            System.out.println("Enter the elements:");
             for(int i=0;i<size;i++){
                 arr[i]=sc.nextInt();
             }
 
-            System.out.println("Enter the type of sort u wanna do:");
-            System.out.println("1).-Bubble sort:");
-            System.out.println("2).-Selection sort" );
-            System.out.println("3).-Insertion sort");
-            System.out.println("4).-Counting sort");
-            System.out.print( "Choose one number: ");
+            System.out.println("Choose Sorting Algorithm:");
+            System.out.println("1). Bubble Sort");
+            System.out.println("2). Selection Sort");
+            System.out.println("3). Insertion Sort");
+            System.out.println("4). Counting Sort");
+
             int num=sc.nextInt();
 
             switch(num){
-                case 1:System.out.println("Bubble sort array:");
-                bsort(arr,size);
-                printarr(arr,size);
-                System.out.println("Thank you to be here!");
-                break;
+                case 1:
+                    System.out.println("Bubble Sort:");
+                    bsort(arr,size);
+                    printarr(arr,size);
+                    break;
 
-                case 2:System.out.println("Selection sort array is:");
-                ssort(arr,size);
-                printarr(arr,size);
-                System.out.println("Thank you to be here!");
-                break;
+                case 2:
+                    System.out.println("Selection Sort:");
+                    ssort(arr,size);
+                    printarr(arr,size);
+                    break;
 
-                case 3:System.out.println("Insertion sort array is:");
-                isort(arr,size);
-                printarr(arr,size);
-                System.out.println("Thank you to be here!");
-                break;
+                case 3:
+                    System.out.println("Insertion Sort:");
+                    isort(arr,size);
+                    printarr(arr,size);
+                    break;
 
-                case 4 :System.out.println("Counting Sort array is:");
-                csort(arr,size);
-                printarr(arr,size);
-                System.out.println("Thank you to be here!");
-                break;
+                case 4:
+                    System.out.println("Counting Sort:");
+                    csort(arr,size);
+                    printarr(arr,size);
+                    break;
 
-                default : System.out.println("Invalid Choice");
+                default:
+                    System.out.println("Invalid Choice!");
             }
-            sc.close();
+
+        }
+        else if(choice == 2){
+
+            System.out.println("Enter the elements:");
+            for(int i=0;i<size;i++){
+                Arr[i]=sc.nextInt();
+            }
+
+            System.out.println("Inbuilt Sorting (Descending):");
+            inbuilt(Arr,size);
+            printArr(Arr,size);
+        }
+        else{
+            System.out.println("Invalid Main Choice!");
         }
     }
 }
