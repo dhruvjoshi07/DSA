@@ -10,17 +10,61 @@ You can use this array as an example : [3, 6, 2, 1, 8, 7, 4, 5, 3, 1 ]
 */
 import java.util.*;
 public class sorting {
+    
+    //BUBBLE SORT
     public static void bsort(int arr[],int size){
         
     }
+
+    //SELECTION SORT
     public static void ssort(int arr[],int size){
-
+        for(int i=0;i<size-1;i++){
+            int minPos=i;
+            for(int j=i+1;j<size;j++){         //j=i+1 & minPos=i
+                if(arr[minPos]>arr[j]){
+                    minPos=j;
+                }
+            }
+            //swap
+            int temp=arr[minPos];
+            arr[minPos]=arr[i];
+            arr[i]=temp;
+        }
     }
+
+    //Insertion Sort
     public static void isort(int arr[],int size){
-
+        for(int i=0;i<size;i++){
+            int curr=arr[i];
+            int prev=i-1;
+            while(prev>=0 && prev>curr){
+                arr[prev+1]=arr[prev];
+                prev--;
+            }
+            arr[prev+1]=curr;
+        }
     }
-    public static void csort(int arr[],int size){
 
+    //Counting Sort
+    public static void csort(int arr[],int size){
+        int range=Integer.MIN_VALUE;
+        for(int i=0;i<size;i++){
+            range=Math.max(range,arr[i]);
+        }
+        int count[]=new int[range+1];
+        for(int i=0;i<size;i++){
+            count[arr[i]]++;
+        }
+
+        //sorting
+        int j=0;
+        for(int i=0;i<count.length;i++){
+            while(count[i]>0){
+                arr[j]=i;
+                j++;
+                count[i]--;
+            }
+        }
     }
     public static void printarr(int arr[],int size){
         for(int i=0;i<size;i++){
@@ -48,30 +92,31 @@ public class sorting {
             int num=sc.nextInt();
 
             switch(num){
-                case'1':System.out.println("Bubble sort array:");
+                case 1:System.out.println("Bubble sort array:");
                 bsort(arr,size);
                 printarr(arr,size);
-                System.out.print("Thank you to be here!");
+                System.out.println("Thank you to be here!");
                 break;
 
-                case'2':System.out.println("Selection sort array is:");
+                case 2:System.out.println("Selection sort array is:");
                 ssort(arr,size);
                 printarr(arr,size);
-                System.out.print("Thank you to be here!");
+                System.out.println("Thank you to be here!");
                 break;
 
-                case'3':System.out.println("Insertion sort array is:");
+                case 3:System.out.println("Insertion sort array is:");
                 isort(arr,size);
                 printarr(arr,size);
-                System.out.print("Thank you to be here!");
+                System.out.println("Thank you to be here!");
                 break;
 
-                case'4':System.out.println("Counting Sort array is:");
+                case 4 :System.out.println("Counting Sort array is:");
                 csort(arr,size);
                 printarr(arr,size);
-                System.out.print("Thank you to be here!");
+                System.out.println("Thank you to be here!");
                 break;
 
+                default : System.out.println("Invalid Choice");
             }
             sc.close();
         }
