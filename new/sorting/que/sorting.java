@@ -1,6 +1,6 @@
 package sorting.que;
 /* 
-Question : Use the following sorting algorithms to sort an array:
+Question : Use the following sorting algorithms to sort an array in the descending order:
 a. Bubble Sort
 b. Selection Sort
 c. Insertion Sort
