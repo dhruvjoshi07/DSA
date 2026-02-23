@@ -15,7 +15,7 @@ public class sorting {
     public static void bsort(int arr[],int size){
         for(int i=0;i<size-1;i++){
             for(int j=0;j<size-1-i;j++){      //size-1-i
-                if(arr[j]>arr[j+1]){
+                if(arr[j]<arr[j+1]){
                     int temp=arr[j];
                     arr[j]=arr[j+1];
                     arr[j+1]=temp;
@@ -29,7 +29,7 @@ public class sorting {
         for(int i=0;i<size-1;i++){
             int minPos=i;
             for(int j=i+1;j<size;j++){         //j=i+1 & minPos=i
-                if(arr[minPos]>arr[j]){
+                if(arr[minPos]<arr[j]){
                     minPos=j;
                 }
             }
@@ -45,7 +45,7 @@ public class sorting {
         for(int i=0;i<size;i++){
             int curr=arr[i];
             int prev=i-1;
-            while(prev>=0 && arr[prev]>curr){
+            while(prev>=0 && arr[prev]<curr){
                 arr[prev+1]=arr[prev];
                 prev--;
             }
@@ -67,7 +67,7 @@ public class sorting {
         //sorting
         int j=0;
         for(int i=0;i<count.length;i++){
-            while(count[i]>0){
+            while(count[i]<0){
                 arr[j]=i;
                 j++;
                 count[i]--;

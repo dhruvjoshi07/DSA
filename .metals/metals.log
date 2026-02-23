@@ -9401,3 +9401,162 @@ INFO: Unsupported notification method: $/setTrace
 2026.02.19 19:41:38 INFO  Memory monitor stopped
 2026.02.19 19:41:38 INFO  shutting down Metals
 2026.02.19 19:41:38 INFO  Exiting server
+2026.02.23 21:14:18 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning' for client Visual Studio Code 1.109.5.
+2026.02.23 21:14:18 INFO  Memory monitor started
+2026.02.23 21:14:22 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.23 21:14:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:14:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:14:27 WARN  no build tool detected in workspace 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.02.23 21:14:28 WARN  Build server is not auto-connectable.
+2026.02.23 21:14:27 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java
+2026.02.23 21:14:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:14:32 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/sorting/que/sorting.java. Output:
+
+2026.02.23 21:14:32 INFO  time: code lens generation in 4.04s
+2026.02.23 21:14:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:14:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:14:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:14:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+Feb 23, 2026 9:14:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Feb 23, 2026 9:14:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Feb 23, 2026 9:14:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.02.23 21:14:34 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:14:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:14:58 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+Feb 23, 2026 9:15:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/a.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:778)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:775)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+Feb 23, 2026 9:15:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/sorting/que/sorting.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:778)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:775)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+2026.02.23 21:16:12 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+Feb 23, 2026 9:16:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/sorting/que/sorting.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:212)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:778)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:775)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:808)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+2026.02.23 21:16:13 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java
+2026.02.23 21:16:12 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:16:13 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:16:13 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/sorting/que/sorting.java. Output:
+
+2026.02.23 21:16:13 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:16:13 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:16:14 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:16:15 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:16:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\que\sorting.java. Using fallback presentation compiler.
+2026.02.23 21:16:32 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\countingsort.java
+2026.02.23 21:16:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\countingsort.java. Using fallback presentation compiler.
+2026.02.23 21:16:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\countingsort.java. Using fallback presentation compiler.
+2026.02.23 21:16:32 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/sorting/countingsort.java. Output:
+
+2026.02.23 21:16:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\countingsort.java. Using fallback presentation compiler.
+2026.02.23 21:16:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\countingsort.java. Using fallback presentation compiler.
+2026.02.23 21:16:35 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\Selectionsort.java
+2026.02.23 21:16:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\Selectionsort.java. Using fallback presentation compiler.
+2026.02.23 21:16:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\Selectionsort.java. Using fallback presentation compiler.
+2026.02.23 21:16:35 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/sorting/Selectionsort.java. Output:
+
+2026.02.23 21:16:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\Selectionsort.java. Using fallback presentation compiler.
+2026.02.23 21:16:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\Selectionsort.java. Using fallback presentation compiler.
+2026.02.23 21:16:42 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\bss.java
+2026.02.23 21:16:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\bss.java. Using fallback presentation compiler.
+2026.02.23 21:16:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\bss.java. Using fallback presentation compiler.
+2026.02.23 21:16:42 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/que/bss.java. Output:
+
+2026.02.23 21:16:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\bss.java. Using fallback presentation compiler.
+2026.02.23 21:16:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\bss.java. Using fallback presentation compiler.
