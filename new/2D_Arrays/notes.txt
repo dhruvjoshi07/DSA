@@ -17,3 +17,8 @@ example2,RGB color(teen 2d color used in phots and for video 4 2d color used)
 2   2,0   2,1   2,2     //columns=3     //(2,1) is index
 3   3,0   3,1   3,3     //diagonal=0,0    1,1     2,2     3,3
 
+**2d arrays in memory
+    row major
+    column major
+    but java doesnt do row major or column major
+    continuous fasion mei store hojarruri ni
