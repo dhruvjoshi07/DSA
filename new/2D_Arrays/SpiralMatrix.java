@@ -1,6 +1,13 @@
 import java.util.*;
 public class SpiralMatrix {
-    public static void arr2d(int matrix[][]){
+        /* 
+    //approach
+    start row=0 then 1 in iteration
+    end row=n-1 then 2 in iteration
+    start column=0 then 2 in iteration1 
+    end column=m-1 then 2 in iteration
+        */
+    public static void spiral(int matrix[][]){
          int startRow=0;
                 int startCol=0;
                 int endRow=matrix.length-1;
@@ -14,16 +21,22 @@ public class SpiralMatrix {
                 
                 //right
                 for(int i=startRow+1;i<=endRow;i++){
-                    System.out.print(matrix[endCol][i]+" ");
+                    System.out.print(matrix[i][endCol]+" ");
                 }
 
                 //bottom
-                for(int j=endCol-1;j>=endCol;j--){
-                    System.out.print(matrix[j][endRow]+" ");
+                for(int j=endCol-1;j>=startCol;j--){
+                    if(startRow==endRow){ //jb ans aa jaye tb repeat na aye ans
+                        break;
+                    }
+                    System.out.print(matrix[endRow][j]+" ");
                 }
 
                 //Left
                 for(int i=endRow-1;i>=startRow;i--){
+                    if(startCol==endCol){
+                        break;
+                    }
                     System.out.print(matrix[i][startCol]+" ");
                 }
 
@@ -32,8 +45,8 @@ public class SpiralMatrix {
                 endRow--;
                 endCol--;;
             }
+            System.out.println();
         }
-    }
     public static void main(String[] args){
         try(Scanner sc= new Scanner(System.in)){
             int matrix[][]=new int[4][4];
@@ -41,15 +54,9 @@ public class SpiralMatrix {
                 for(int j=0;j<matrix[0].length;j++){
                     matrix[i][j]=sc.nextInt();
                 }
-            arr2d(matrix);
-            sc.close();
-            /* 
-            //approach
-            start row=0 then 1 in iteration
-            end row=n-1 then 2 in iteration
-            start column=0 then 2 in iteration1 
-            end column=m-1 then 2 in iteration
-            */
+            }
+        spiral(matrix);
+        sc.close();
         }
     }
 }
