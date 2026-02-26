@@ -18,11 +18,19 @@ public class SpiralMatrix {
                 }
 
                 //bottom
-                for(int j=endCol-1;j>=startRow;j--){
+                for(int j=endCol-1;j>=endCol;j--){
                     System.out.print(matrix[j][endRow]+" ");
                 }
 
                 //Left
+                for(int i=endRow-1;i>=startRow;i--){
+                    System.out.print(matrix[i][startCol]+" ");
+                }
+
+                startRow++;
+                startCol++;
+                endRow--;
+                endCol--;;
             }
         }
     }
