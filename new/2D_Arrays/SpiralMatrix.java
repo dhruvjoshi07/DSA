@@ -13,7 +13,10 @@ public class SpiralMatrix {
                 }
                 
                 //right
-
+                
+                for(int i=startRow+1;i<=endRow;i++){
+                    System.out.print(matrix[endCol][i]+" ");
+                }
                 //bottom
 
             }
