@@ -13,12 +13,16 @@ public class SpiralMatrix {
                 }
                 
                 //right
-                
                 for(int i=startRow+1;i<=endRow;i++){
                     System.out.print(matrix[endCol][i]+" ");
                 }
-                //bottom
 
+                //bottom
+                for(int j=endCol-1;j>=startRow;j--){
+                    System.out.print(matrix[j][endRow]+" ");
+                }
+
+                //Left
             }
         }
     }
