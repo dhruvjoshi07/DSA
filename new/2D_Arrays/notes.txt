@@ -22,3 +22,7 @@ example2,RGB color(teen 2d color used in phots and for video 4 2d color used)
     column major
     but java doesnt do row major or column major
     continuous fasion mei store hojarruri ni
+
+**2 types of diagonal
+    Primary Diagonal (goes from lefttop to bottom right)
+    Seconday Diagonal(Right top to left Bottom)
