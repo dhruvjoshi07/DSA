@@ -148,3 +148,998 @@ WARNING: Unmatched cancel notification for request id 55
 2026.02.28 23:22:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
 2026.02.28 23:22:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
 2026.02.28 23:22:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:19 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:19 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:27 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.02.28 23:23:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:28 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.02.28 23:23:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:28 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.02.28 23:23:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:30 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.02.28 23:23:52 INFO  Shutting down server
+2026.02.28 23:23:52 INFO  Memory monitor stopped
+2026.02.28 23:23:52 INFO  shutting down Metals
+2026.02.28 23:23:52 INFO  Exiting server
+
+2026.03.01 23:11:42 INFO  Memory monitor started
+2026.03.01 23:11:44 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.01 23:11:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:11:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.03.01 23:11:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:11:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2026.03.01 23:11:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:11:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2026.03.01 23:11:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Mar 01, 2026 11:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Mar 01, 2026 11:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2026.03.01 23:11:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+Mar 01, 2026 11:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+Mar 01, 2026 11:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2026.03.01 23:11:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:47 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+Mar 01, 2026 11:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+Mar 01, 2026 11:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Mar 01, 2026 11:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+2026.03.01 23:11:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+2026.03.01 23:11:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+Mar 01, 2026 11:11:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32
+2026.03.01 23:11:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:47 WARN  no build tool detected in workspace 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.01 23:11:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:48 WARN  Build server is not auto-connectable.
+2026.03.01 23:11:48 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:11:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:49 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:49 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:11:49 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:11:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+2026.03.01 23:11:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:52 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:11:52 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:53 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:11:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:54 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:11:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:11:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 80
+2026.03.01 23:11:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:54 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:11:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:55 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:11:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:11:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 93
+Mar 01, 2026 11:11:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 95
+2026.03.01 23:11:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:55 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:11:55 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:11:56 INFO  time: code lens generation in 1.8s
+2026.03.01 23:11:56 INFO  time: code lens generation in 7.99s
+2026.03.01 23:11:56 INFO  time: code lens generation in 8s
+2026.03.01 23:11:56 INFO  time: code lens generation in 7.09s
+2026.03.01 23:11:56 INFO  time: code lens generation in 7.97s
+2026.03.01 23:11:56 INFO  time: code lens generation in 8s
+2026.03.01 23:11:56 INFO  time: code lens generation in 7.99s
+2026.03.01 23:11:56 INFO  time: code lens generation in 7.83s
+2026.03.01 23:11:56 INFO  time: code lens generation in 8s
+2026.03.01 23:11:56 INFO  time: code lens generation in 8s
+2026.03.01 23:11:56 INFO  time: code lens generation in 1.51s
+Mar 01, 2026 11:11:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 92
+2026.03.01 23:11:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:57 INFO  time: code lens generation in 5.66s
+2026.03.01 23:11:57 INFO  time: code lens generation in 3.21s
+2026.03.01 23:11:57 INFO  time: code lens generation in 6.02s
+2026.03.01 23:11:57 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:11:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:11:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 106
+2026.03.01 23:11:58 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:11:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:00 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:00 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:12:00 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:00 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:12:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 125
+Mar 01, 2026 11:12:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 127
+2026.03.01 23:12:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:03 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:04 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:04 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:12:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:05 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:07 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:07 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:07 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:08 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:12:08 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:09 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:09 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:10 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:10 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:10 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:10 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:10 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:10 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:11 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:11 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:11 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:11 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:11 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:11 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:11 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:12 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:12 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:12 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:12:12 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:21 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:22 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:22 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:12:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:24 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:24 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:24 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:12:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:30 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:32 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:32 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:33 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:33 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:34 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:35 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:12:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:36 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:36 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:37 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:12:37 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:37 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:37 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:39 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:39 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:39 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:39 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:40 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:12:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:46 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:48 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:48 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:12:48 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:49 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:49 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:49 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:49 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:49 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:49 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:49 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:52 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:52 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:12:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:52 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:53 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:53 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:55 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:12:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 327
+2026.03.01 23:12:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:56 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:12:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:56 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:56 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:57 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:57 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:58 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:12:58 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:58 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:58 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:58 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:58 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:58 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:59 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:00 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:00 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:12:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:00 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:12:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:00 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:00 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:01 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:13:00 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:02 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:13:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:03 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:13:04 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:13:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:13 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:13 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:15 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:15 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:15 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:13:15 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:15 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:13:16 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:18 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:18 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:13:18 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:18 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:13:18 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:18 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:18 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:18 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:19 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:19 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:19 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:21 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:13:21 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:13:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:26 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:13:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:27 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:13:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:30 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:13:30 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:13:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:34 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:34 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:34 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:34 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:13:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 462
+2026.03.01 23:13:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:37 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:37 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:37 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:37 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:13:37 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:13:38 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:49 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:49 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:13:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:00 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:06 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:14:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:06 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:14:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:08 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:08 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:09 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:20 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:25 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:26 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:14:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:26 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:14:30 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:14:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 546
+2026.03.01 23:14:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:34 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:36 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:14:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:35 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:14:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:37 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:37 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:14:37 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:14:37 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:38 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:38 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:39 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:14:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 585
+2026.03.01 23:14:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:42 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:14:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:14:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 588
+2026.03.01 23:14:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:42 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:14:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:42 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:14:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:43 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:14:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:44 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:14:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:45 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:14:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:46 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:14:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:46 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:14:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:14:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:15:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:15:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:16:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:16:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:16:07 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:16:08 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:16:09 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:16:13 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:16:20 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:16:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:16:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:11 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:13 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:13 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:17 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:17 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:18 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:18 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:18 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:17:19 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:20 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:20 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:20 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:20 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:20 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:20 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:21 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:22 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:17:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 717
+2026.03.01 23:17:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:23 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:23 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:23 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:24 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:17:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:25 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:25 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:25 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:25 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:25 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:25 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:25 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:25 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:25 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:26 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:17:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:26 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:27 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:28 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:28 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:29 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:29 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:30 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:30 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:30 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:30 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:31 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:32 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:31 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:33 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:33 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:17:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:36 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:37 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:17:37 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:38 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:38 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:38 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:38 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:38 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:39 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:17:39 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:40 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:40 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:41 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:41 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:17:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:42 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:43 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:44 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:17:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:44 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:44 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:17:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 892
+2026.03.01 23:17:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+Mar 01, 2026 11:17:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 896
+2026.03.01 23:17:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:45 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:44 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:45 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:46 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:46 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:47 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:48 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:48 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:49 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:17:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:49 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:49 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:50 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:51 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:51 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:52 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:52 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:52 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:52 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:52 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:52 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:52 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:52 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:52 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:53 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:54 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:17:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:54 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:55 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:56 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:56 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:57 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:17:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:57 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:17:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:58 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:17:58 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:17:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:00 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:00 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:18:00 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:01 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:18:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:00 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:00 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:01 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:18:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:02 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:18:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:02 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:18:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:02 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:18:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:03 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:18:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:03 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:18:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:04 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:18:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:04 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:18:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:07 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:07 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:07 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:07 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:18:07 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:08 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:18:08 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:09 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:10 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:11 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:12 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:12 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:12 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:13 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:13 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:13 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/DiagonalSum.java. Output:
+
+2026.03.01 23:18:13 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:14 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java
+2026.03.01 23:18:14 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.
+2026.03.01 23:18:15 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\DiagonalSum.java. Using fallback presentation compiler.

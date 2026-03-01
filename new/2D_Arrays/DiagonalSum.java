@@ -1,7 +1,18 @@
 import java.util.*;
 public class DiagonalSum {
-    public static void diagonal(int matrix[][]){
+    public static int diagonal(int matrix[][]){
         int sum=0;
+        for(int i=0;i<matrix.length;i++){
+            for(int j=0;j<matrix[0].length;j++){
+                if(i==j){
+                    sum+=matrix[i][j];
+                }
+                else if(i+j==matrix.length-1){
+                    sum+=matrix[i][j];
+                }
+            }
+        }
+        return sum;
     }
     public static void main(String [] args){
         Scanner sc=new Scanner(System.in);
@@ -22,5 +33,7 @@ public class DiagonalSum {
             }
             System.out.println();
         }
+        int result=diagonal(matrix);
+        System.out.print("Diagonal Sum="+ result);
     }
 }
