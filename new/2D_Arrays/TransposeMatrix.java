@@ -1,8 +1,8 @@
 public class TransposeMatrix {
     public static void main(String[] args) {
         int[][] matrix = {
-            {5, 2, 3},
-            {4, 5, 6}
+            {5, 10, 15},
+            {4, 8, 12}
         };
 
         int[][] transpose = new int[matrix[0].length][matrix.length];
