@@ -1,7 +1,7 @@
 public class TransposeMatrix {
     public static void main(String[] args) {
         int[][] matrix = {
-            {5, 10, 15},
+            {1, 3,2 },
             {4, 8, 12}
         };
 
