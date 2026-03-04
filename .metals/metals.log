@@ -2038,3 +2038,38 @@ Mar 04, 2026 8:17:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellat
 WARNING: Unmatched cancel notification for request id 5
 2026.03.04 20:17:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java. Using fallback presentation compiler.
 2026.03.04 20:17:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java. Using fallback presentation compiler.
+Mar 04, 2026 8:17:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2026.03.04 20:17:54 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java
+2026.03.04 20:17:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java. Using fallback presentation compiler.
+2026.03.04 20:17:54 WARN  no build tool detected in workspace 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.04 20:17:54 WARN  Build server is not auto-connectable.
+2026.03.04 20:17:54 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java
+2026.03.04 20:17:59 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/TransposeMatrix.java. Output:
+
+Mar 04, 2026 8:17:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.03.04 20:17:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java. Using fallback presentation compiler.
+Mar 04, 2026 8:17:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2026.03.04 20:17:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java. Using fallback presentation compiler.
+Mar 04, 2026 8:17:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2026.03.04 20:17:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java. Using fallback presentation compiler.
+Mar 04, 2026 8:17:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2026.03.04 20:17:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java. Using fallback presentation compiler.
+2026.03.04 20:17:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java. Using fallback presentation compiler.
+2026.03.04 20:17:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java. Using fallback presentation compiler.
+Mar 04, 2026 8:17:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Mar 04, 2026 8:17:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2026.03.04 20:17:59 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/TransposeMatrix.java. Output:
+
+2026.03.04 20:17:59 INFO  time: code lens generation in 5.55s
+2026.03.04 20:18:00 INFO  time: code lens generation in 5.55s
+2026.03.04 20:18:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java. Using fallback presentation compiler.
+2026.03.04 20:18:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java. Using fallback presentation compiler.
+2026.03.04 20:18:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java. Using fallback presentation compiler.
+2026.03.04 20:18:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\TransposeMatrix.java. Using fallback presentation compiler.
