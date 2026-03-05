@@ -26,3 +26,6 @@ example2,RGB color(teen 2d color used in phots and for video 4 2d color used)
 **2 types of diagonal
     Primary Diagonal (goes from lefttop to bottom right)
     Seconday Diagonal(Right top to left Bottom)
+
+**Search in Sorted Matrix
+    also known as Staircase Search
