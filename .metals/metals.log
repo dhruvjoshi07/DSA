@@ -2712,3 +2712,178 @@ Mar 05, 2026 11:38:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 WARNING: Unmatched cancel notification for request id 464
 2026.03.05 23:38:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
 2026.03.05 23:39:16 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Exception in thread "pool-1-thread-72" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "pool-1-thread-80" java.lang.OutOfMemoryError: Java heap space
+2026.03.05 23:42:44 ERROR You might need to remove .metals/metals.mv.db file and restart Metals.
+org.h2.jdbc.JdbcSQLNonTransientConnectionException: Out of memory. [90108-240]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:690)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:212)
+	at org.h2.engine.Database.throwLastBackgroundException(Database.java:1841)
+	at org.h2.engine.SessionLocal.beforeCommitOrRollback(SessionLocal.java:781)
+	at org.h2.engine.SessionLocal.commit(SessionLocal.java:687)
+	at org.h2.command.Command.stop(Command.java:163)
+	at org.h2.command.Command.executeQuery(Command.java:237)
+	at org.h2.jdbc.JdbcPreparedStatement.executeQuery(JdbcPreparedStatement.java:130)
+	at scala.meta.internal.metals.JdbcEnrichments$XtensionConnection.query(JdbcEnrichments.scala:49)
+	at scala.meta.internal.metals.DependencySources.getBuildTarget(DependencySources.scala:27)
+	at scala.meta.internal.metals.BuildTargets.$anonfun$inverseSources$2(BuildTargets.scala:288)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.BuildTargets.inverseSources(BuildTargets.scala:288)
+	at scala.meta.internal.metals.BuildTargets.scalaVersion(BuildTargets.scala:356)
+	at scala.meta.internal.metals.codeactions.ImportMissingSymbol.isScala3$lzycompute$1(ImportMissingSymbol.scala:50)
+	at scala.meta.internal.metals.codeactions.ImportMissingSymbol.isScala3$1(ImportMissingSymbol.scala:49)
+	at scala.meta.internal.metals.codeactions.ImportMissingSymbol.contribute(ImportMissingSymbol.scala:148)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:88)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:86)
+	at scala.collection.immutable.List.collect(List.scala:265)
+	at scala.meta.internal.metals.codeactions.CodeActionProvider.codeActions(CodeActionProvider.scala:86)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeAction$1(MetalsLspService.scala:1217)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.codeAction(MetalsLspService.scala:1216)
+	at scala.meta.internal.metals.WorkspaceLspService.codeAction(WorkspaceLspService.scala:626)
+	at scala.meta.metals.lsp.DelegatingScalaService.codeAction(DelegatingScalaService.scala:157)
+	at jdk.internal.reflect.GeneratedMethodAccessor7.invoke(null)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:569)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:265)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:195)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+Caused by: org.h2.message.DbException: Out of memory. [90108-240]
+	at org.h2.message.DbException.get(DbException.java:212)
+	at org.h2.message.DbException.convert(DbException.java:401)
+	at org.h2.mvstore.db.Store.lambda$new$0(Store.java:122)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:1675)
+	at org.h2.mvstore.FileStore.writeInBackground(FileStore.java:1848)
+	at org.h2.mvstore.FileStore$BackgroundWriterThread.run(FileStore.java:2257)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientConnectionException: Out of memory. [90108-240]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:690)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:212)
+	at org.h2.message.DbException.convert(DbException.java:401)
+	at org.h2.mvstore.db.Store.lambda$new$0(Store.java:122)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:1675)
+	at org.h2.mvstore.FileStore.writeInBackground(FileStore.java:1848)
+	at org.h2.mvstore.FileStore$BackgroundWriterThread.run(FileStore.java:2257)
+Caused by: java.lang.OutOfMemoryError: Java heap space
+
+2026.03.05 23:42:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 467
+2026.03.05 23:42:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 470
+2026.03.05 23:42:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:42:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 473
+Mar 05, 2026 11:42:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 474
+2026.03.05 23:42:44 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.05 23:42:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:42:44 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+Mar 05, 2026 11:42:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 475
+Mar 05, 2026 11:42:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 478
+Mar 05, 2026 11:42:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 476
+Mar 05, 2026 11:42:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 479
+2026.03.05 23:42:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:42:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:42:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 484
+2026.03.05 23:42:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 477
+Mar 05, 2026 11:42:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 487
+Mar 05, 2026 11:42:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 488
+Mar 05, 2026 11:42:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 486
+2026.03.05 23:42:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:42:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:42:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 490
+2026.03.05 23:42:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:42:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 493
+2026.03.05 23:42:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 496
+2026.03.05 23:42:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:42:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 482
+Mar 05, 2026 11:42:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 499
+Mar 05, 2026 11:42:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 498
+2026.03.05 23:42:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:42:47 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.05 23:42:47 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+Mar 05, 2026 11:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 502
+2026.03.05 23:42:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 500
+Mar 05, 2026 11:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 503
+2026.03.05 23:42:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:42:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 501
+2026.03.05 23:42:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 507
+Mar 05, 2026 11:42:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 506
+2026.03.05 23:42:48 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+Mar 05, 2026 11:42:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 510
+2026.03.05 23:42:48 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.05 23:42:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 508
+Mar 05, 2026 11:42:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 511
+2026.03.05 23:42:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:42:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 509
+Mar 05, 2026 11:42:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 515
+2026.03.05 23:42:52 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:42:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 514
+2026.03.05 23:42:52 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+Mar 05, 2026 11:42:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 518
+Mar 05, 2026 11:42:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 516
+Mar 05, 2026 11:42:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 519
+2026.03.05 23:42:52 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.05 23:42:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:42:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:42:55 INFO  time: code lens generation in 3.72s
+Mar 05, 2026 11:44:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 517
