@@ -29,3 +29,9 @@ example2,RGB color(teen 2d color used in phots and for video 4 2d color used)
 
 **Search in Sorted Matrix
     also known as Staircase Search
+    logic:
+    (0,m-1)
+        key<cell value
+            LEFT
+        key>cell value
+            Bottom
