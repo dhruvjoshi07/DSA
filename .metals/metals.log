@@ -2548,3 +2548,167 @@ WARNING: Unmatched cancel notification for request id 240
 2026.03.05 23:34:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
 2026.03.05 23:34:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
 2026.03.05 23:35:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:29 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.05 23:36:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:30 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:30 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:34 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:34 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.05 23:36:35 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.05 23:36:35 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:37 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.05 23:36:37 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:38 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.05 23:36:38 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:39 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:39 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:39 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:39 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.05 23:36:39 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:39 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.05 23:36:40 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-05\r_qdox-error_23-16-36-165.md")
+2026.03.05 23:36:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:40 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:43 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.05 23:36:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:43 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.05 23:36:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:44 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.05 23:36:44 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-05\r_qdox-error_23-16-36-165.md")
+2026.03.05 23:36:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:46 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.05 23:36:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:46 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.05 23:36:46 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:46 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-05\r_qdox-error_23-16-36-165.md")
+2026.03.05 23:36:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:36:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 393
+2026.03.05 23:36:50 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.05 23:36:50 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-05\r_qdox-error_23-16-36-165.md")
+2026.03.05 23:36:50 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.05 23:36:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:36:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 401
+2026.03.05 23:36:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:52 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:36:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 404
+2026.03.05 23:36:52 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.05 23:36:52 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.05 23:36:53 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-05\r_qdox-error_23-16-36-165.md")
+2026.03.05 23:36:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:36:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 412
+2026.03.05 23:36:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:53 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:55 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.05 23:36:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:36:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 428
+2026.03.05 23:36:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:56 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-05\r_qdox-error_23-16-36-165.md")
+2026.03.05 23:36:55 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.05 23:36:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:58 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:58 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.05 23:36:58 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-05\r_qdox-error_23-16-36-165.md")
+2026.03.05 23:36:58 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:59 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.05 23:36:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:36:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:37:00 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.05 23:37:00 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.05 23:37:00 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:37:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:37:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 458
+2026.03.05 23:37:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:37:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:37:06 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:37:18 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Exception in thread "pool-1-thread-83" java.lang.OutOfMemoryError: Java heap space
+	at java.base/java.lang.invoke.DirectMethodHandle.allocateInstance(DirectMethodHandle.java:520)
+	at java.base/java.lang.invoke.DirectMethodHandle$Holder.newInvokeSpecial(DirectMethodHandle$Holder)
+	at java.base/java.lang.invoke.Invokers$Holder.linkToTargetMethod(Invokers$Holder)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor$.findComments$1(JavaFoldingRangeExtractor.scala:145)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor$.findComments(JavaFoldingRangeExtractor.scala:160)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor$.extract(JavaFoldingRangeExtractor.scala:180)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:52)
+	at scala.meta.internal.parsing.FoldingRangeProvider$$Lambda$2254/0x000001a3b58023c8.apply(Unknown Source)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:48)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$foldingRange$3(MetalsLspService.scala:1262)
+	at scala.meta.internal.metals.MetalsLspService$$Lambda$2252/0x000001a3b5807c28.apply(Unknown Source)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:691)
+	at scala.concurrent.Future$$$Lambda$56/0x000001a3b510a470.apply(Unknown Source)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:500)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Mar 05, 2026 11:37:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 459
+2026.03.05 23:38:22 WARN  High memory usage detected: 99% (2045 MB / 2048 MB)
+2026.03.05 23:38:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:38:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+Mar 05, 2026 11:38:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 465
+Mar 05, 2026 11:38:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 466
+Mar 05, 2026 11:38:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 464
+2026.03.05 23:38:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
+2026.03.05 23:39:16 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java. Using fallback presentation compiler.
