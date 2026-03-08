@@ -34,7 +34,7 @@ public class Matrics {
                 System.out.println();
             }
 
-            search(matrix,5);
+            search(matrix,5); 
             sc.close();
         }
     }

@@ -35,3 +35,4 @@ example2,RGB color(teen 2d color used in phots and for video 4 2d color used)
             LEFT
         key>cell value
             Bottom
+    *tcomplexity=O(n+m)
