@@ -3295,3 +3295,150 @@ INFO: Unsupported notification method: $/setTrace
 2026.03.10 22:50:15 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/que/PrintArray.java. Output:
 
 2026.03.10 22:50:15 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:16 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java
+2026.03.10 22:50:16 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:15 INFO  Created report: Optional[file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/que/PrintArray.java]
+2026.03.10 22:50:15 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/que/PrintArray.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-10\r_qdox-error_22-50-16-697.md")
+2026.03.10 22:50:18 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:18 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:19 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:19 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/que/PrintArray.java. Output:
+
+2026.03.10 22:50:19 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java
+2026.03.10 22:50:19 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:19 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/que/PrintArray.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-10\r_qdox-error_22-50-16-697.md")
+2026.03.10 22:50:20 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:20 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:19 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/que/PrintArray.java. Output:
+
+2026.03.10 22:50:20 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:20 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:21 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java
+2026.03.10 22:50:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:21 INFO  no build target found for c:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\PrintArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:21 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java
+2026.03.10 22:50:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:21 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/que/SumArray.java. Output:
+
+2026.03.10 22:50:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:21 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:22 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.10 22:50:34 INFO  Shutting down server
+2026.03.10 22:50:34 INFO  Memory monitor stopped
+2026.03.10 22:50:34 INFO  shutting down Metals
+2026.03.10 22:50:34 INFO  Exiting server
+2026.03.11 11:42:26 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning' for client Visual Studio Code 1.110.1.
+2026.03.11 11:42:26 INFO  Memory monitor started
+2026.03.11 11:42:27 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.11 11:42:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 11:42:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 11:42:29 WARN  no build tool detected in workspace 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.11 11:42:29 WARN  Build server is not auto-connectable.
+2026.03.11 11:42:30 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java
+2026.03.11 11:42:30 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 11:42:33 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/que/SumArray.java. Output:
+
+2026.03.11 11:42:33 INFO  time: code lens generation in 3.42s
+2026.03.11 11:42:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 11:42:50 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\Matrics.java. Using fallback presentation compiler.
+2026.03.11 11:42:50 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\Matrics.java
+2026.03.11 11:42:51 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/Matrics.java. Output:
+
+2026.03.11 11:42:51 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\Matrics.java. Using fallback presentation compiler.
+Mar 11, 2026 11:42:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2026.03.11 11:42:52 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\Matrics.java. Using fallback presentation compiler.
+2026.03.11 11:42:54 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java
+2026.03.11 11:42:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:42:54 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/BruteForce.java. Output:
+
+2026.03.11 11:42:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+Mar 11, 2026 11:42:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2026.03.11 11:42:54 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:42:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:42:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+Mar 11, 2026 11:42:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+2026.03.11 11:42:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:42:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:42:56 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:42:57 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:43:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:43:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:43:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:43:05 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:43:17 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:43:18 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:53:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 11:53:41 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java
+2026.03.11 11:53:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+Mar 11, 2026 11:53:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+2026.03.11 11:53:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 11:53:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 11:53:52 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 11:54:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+Mar 11, 2026 11:54:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 130
+2026.03.11 11:54:04 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+Mar 11, 2026 11:54:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 131
+2026.03.11 11:54:09 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\BruteForce.java. Using fallback presentation compiler.
+2026.03.11 11:54:09 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\trw.java
+2026.03.11 11:54:09 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\trw.java. Using fallback presentation compiler.
+2026.03.11 11:54:09 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\trw.java. Using fallback presentation compiler.
+2026.03.11 11:54:09 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\trw.java. Using fallback presentation compiler.
+2026.03.11 11:54:10 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/que/trw.java. Output:
+
+2026.03.11 11:54:09 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\trw.java. Using fallback presentation compiler.
+2026.03.11 11:54:09 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\trw.java. Using fallback presentation compiler.
+2026.03.11 11:54:10 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\trw.java. Using fallback presentation compiler.
+2026.03.11 11:54:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\trw.java. Using fallback presentation compiler.
+2026.03.11 11:54:33 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\Stmp.java
+2026.03.11 11:54:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\Stmp.java. Using fallback presentation compiler.
+2026.03.11 11:54:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\Stmp.java. Using fallback presentation compiler.
+2026.03.11 11:54:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\Stmp.java. Using fallback presentation compiler.
+2026.03.11 11:54:33 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/que/Stmp.java. Output:
+
+2026.03.11 11:54:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\Stmp.java. Using fallback presentation compiler.
+2026.03.11 11:54:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\Stmp.java. Using fallback presentation compiler.
+2026.03.11 11:54:33 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\Stmp.java. Using fallback presentation compiler.
+2026.03.11 11:54:42 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\Stmp.java. Using fallback presentation compiler.
+2026.03.11 11:54:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\Stmp.java. Using fallback presentation compiler.
+2026.03.11 11:55:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\Stmp.java. Using fallback presentation compiler.
+2026.03.11 11:55:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\Stmp.java. Using fallback presentation compiler.
+2026.03.11 11:55:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\Stmp.java. Using fallback presentation compiler.
+2026.03.11 11:57:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 11:57:41 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java
+2026.03.11 11:57:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 11:57:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 11:57:41 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 11:57:47 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 11:58:11 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java. Using fallback presentation compiler.
+2026.03.11 12:12:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\Stmp.java. Using fallback presentation compiler.
+2026.03.11 12:12:44 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\Insertionsort.java
+2026.03.11 12:12:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\Insertionsort.java. Using fallback presentation compiler.
+2026.03.11 12:12:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\Insertionsort.java. Using fallback presentation compiler.
+Mar 11, 2026 12:12:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 376
+2026.03.11 12:12:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\Insertionsort.java. Using fallback presentation compiler.
+2026.03.11 12:12:45 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/sorting/Insertionsort.java. Output:
+
+2026.03.11 12:12:45 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\Insertionsort.java. Using fallback presentation compiler.
+2026.03.11 12:12:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\Insertionsort.java. Using fallback presentation compiler.
+2026.03.11 12:12:48 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\effective.java
+2026.03.11 12:12:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\effective.java. Using fallback presentation compiler.
+2026.03.11 12:12:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\effective.java. Using fallback presentation compiler.
+2026.03.11 12:12:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\effective.java. Using fallback presentation compiler.
+2026.03.11 12:12:48 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/sorting/effective.java. Output:
+
+2026.03.11 12:12:48 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\effective.java. Using fallback presentation compiler.
+2026.03.11 12:12:49 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\sorting\effective.java. Using fallback presentation compiler.
+2026.03.11 12:34:18 INFO  Shutting down server
+2026.03.11 12:34:18 INFO  Memory monitor stopped
+2026.03.11 12:34:18 INFO  shutting down Metals
+2026.03.11 12:34:18 INFO  Exiting server
