@@ -11,3 +11,14 @@ class Solution {
         // 3. Reverse the rest: [4,5,1,2,3]
         reverse(nums, k, n - 1);
     }
+
+    private void reverse(int[] nums, int start, int end) {
+        while (start < end) {
+            int temp = nums[start];
+            nums[start] = nums[end];
+            nums[end] = temp;
+            start++;
+            end--;
+        }
+    }
+}
