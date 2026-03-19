@@ -1,7 +1,7 @@
+//question practice from chatgpt
 class Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
-        // Handle cases where k is larger than array length
         k %= n; 
         
         // 1. Reverse the whole thing: [5,4,3,2,1]
