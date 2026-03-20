@@ -1,5 +1,5 @@
 
-/*
+
 // Binary to decimal
 public class convertBD {
 
@@ -18,7 +18,7 @@ public class convertBD {
         bintodec(101);
     }
 }
-*/
+
 
 
 // decimal to binary
