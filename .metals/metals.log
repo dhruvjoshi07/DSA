@@ -3529,3 +3529,82 @@ WARNING: Unmatched cancel notification for request id 42
 2026.03.20 23:34:59 INFO  Memory monitor started
 2026.03.20 23:35:01 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
 2026.03.20 23:35:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\convertBD.java. Using fallback presentation compiler.
+2026.03.20 23:35:01 WARN  no build tool detected in workspace 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.20 23:35:02 WARN  Build server is not auto-connectable.
+2026.03.20 23:35:02 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\que\SumArray.java
+2026.03.20 23:35:02 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\search.java
+2026.03.20 23:35:02 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\array\ai.java
+2026.03.20 23:35:02 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\convertBD.java
+2026.03.20 23:35:02 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\new\2D_Arrays\SpiralMatrix.java
+2026.03.20 23:35:01 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\convertBD.java. Using fallback presentation compiler.
+2026.03.20 23:35:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\convertBD.java. Using fallback presentation compiler.
+2026.03.20 23:35:04 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/convertBD.java. Output:
+
+2026.03.20 23:35:04 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/SpiralMatrix.java. Output:
+
+2026.03.20 23:35:05 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/ai.java. Output:
+
+2026.03.20 23:35:05 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/array/que/SumArray.java. Output:
+
+2026.03.20 23:35:05 INFO  time: code lens generation in 2.81s
+2026.03.20 23:35:05 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/new/2D_Arrays/search.java. Output:
+
+2026.03.20 23:35:13 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\convertBD.java. Using fallback presentation compiler.
+2026.03.20 23:35:14 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\convertBD.java. Using fallback presentation compiler.
+2026.03.20 23:35:19 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java
+2026.03.20 23:35:19 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:19 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java. Output:
+
+2026.03.20 23:35:19 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:20 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:25 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+Mar 20, 2026 11:35:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+2026.03.20 23:35:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:24 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:25 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:25 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:25 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java
+2026.03.20 23:35:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:25 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java. Output:
+
+2026.03.20 23:35:26 INFO  Created report: Optional[file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java]
+2026.03.20 23:35:26 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-20\r_qdox-error_23-35-26-145.md")
+2026.03.20 23:35:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:27 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:28 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:28 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java
+2026.03.20 23:35:29 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-20\r_qdox-error_23-35-26-145.md")
+2026.03.20 23:35:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:29 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java. Output:
+
+2026.03.20 23:35:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+Mar 20, 2026 11:35:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 51
+2026.03.20 23:35:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:29 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+Mar 20, 2026 11:35:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 53
+2026.03.20 23:35:31 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:32 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:33 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java. Output:
+
+2026.03.20 23:35:34 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:35 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java
+2026.03.20 23:35:35 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-20\r_qdox-error_23-35-26-145.md")
+2026.03.20 23:35:34 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:35 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java. Output:
+
+2026.03.20 23:35:36 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java
+2026.03.20 23:35:36 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-20\r_qdox-error_23-35-26-145.md")
+2026.03.20 23:35:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.

@@ -1,5 +1,5 @@
 
-/* 
+
 
     public static void printhelloworld(){
         System.out.println("Hello World");
@@ -10,8 +10,7 @@
         printhelloworld();
         // main function mei call krne k liye function ka nam likhna hota
     }
-}
-*/
+
 /* 
 // Addition 
 // ****CALL BY VALUE IS A COPY NOT ORIGINAL
