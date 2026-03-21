@@ -40,7 +40,6 @@ public class functions{
         }
     }
 }
-*/
 /* 
 // PRODUCT OF a&b
 public class functions{
