@@ -3608,3 +3608,34 @@ WARNING: Unmatched cancel notification for request id 53
 2026.03.20 23:35:36 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java
 2026.03.20 23:35:36 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-20\r_qdox-error_23-35-26-145.md")
 2026.03.20 23:35:36 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:35:59 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:36:02 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:36:03 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java
+2026.03.20 23:36:03 INFO  QDox parse error in file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java (full report at: "C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\.metals\.reports\metals-full\2026-03-20\r_qdox-error_23-35-26-145.md")
+2026.03.20 23:36:03 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.20 23:36:03 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java. Output:
+
+2026.03.20 23:36:04 INFO  Shutting down server
+2026.03.20 23:36:04 INFO  Memory monitor stopped
+2026.03.20 23:36:04 INFO  shutting down Metals
+2026.03.20 23:36:04 INFO  Exiting server
+2026.03.21 12:11:41 INFO  Started: Metals version 1.6.6 in folders 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning' for client Visual Studio Code 1.111.0.
+2026.03.21 12:11:41 INFO  Memory monitor started
+2026.03.21 12:11:43 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.21 12:11:43 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.21 12:11:43 WARN  no build tool detected in workspace 'C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2026.03.21 12:11:44 WARN  Build server is not auto-connectable.
+2026.03.21 12:11:44 WARN  no build target for: C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java
+2026.03.21 12:11:44 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.21 12:11:45 WARN  Running javac-semanticdb failed for file:///C:/Users/DHRUV%20JOSHI/OneDrive/Desktop/learning/javalearning/old/functions.java. Output:
+
+2026.03.21 12:11:45 INFO  time: code lens generation in 2.07s
+2026.03.21 12:11:55 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.21 12:12:10 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.21 12:12:15 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.21 12:12:26 INFO  no build target found for C:\Users\DHRUV JOSHI\OneDrive\Desktop\learning\javalearning\old\functions.java. Using fallback presentation compiler.
+2026.03.21 12:19:07 INFO  Shutting down server
+2026.03.21 12:19:07 INFO  Memory monitor stopped
+2026.03.21 12:19:07 INFO  shutting down Metals
+2026.03.21 12:19:07 INFO  Exiting server
