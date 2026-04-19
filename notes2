@@ -224,7 +224,7 @@ for (int age : ages) {
   sum += age;
 }
 hello
-code 
+code for dsa
 
 // Calculate the average by dividing the sum by the length
 avg = sum / length;
