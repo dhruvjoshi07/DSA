@@ -223,7 +223,7 @@ int length = ages.length;
 for (int age : ages) {
   sum += age;
 }
-hello
+hello xy
 code for dsa
 
 // Calculate the average by dividing the sum by the length
