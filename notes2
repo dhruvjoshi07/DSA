@@ -1,3 +1,4 @@
+                                                      JAVA
 -Data types in java
     primitive-byte,short,char,boolean,int,long,flat,double
     non-primitive-string,array,class,object and interface
@@ -223,6 +224,8 @@ int length = ages.length;
 for (int age : ages) {
   sum += age;
 }
+hello xy
+code for dsa
 
 // Calculate the average by dividing the sum by the length
 avg = sum / length;
