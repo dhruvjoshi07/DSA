@@ -13,3 +13,11 @@ public class e {
         System.out.println(largest);
     } 
 }
+
+/* NOTE:
+String str1="abc";
+String str2="abc";
+String str3=new String("abc");
+Ismei str1 and str2 equal ho jaati pr str 3 nhi cuz of interning
+*Two types of memory=stack memory and heap memory
+*/
