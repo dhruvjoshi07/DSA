@@ -12,6 +12,7 @@ public class a {
         System.out.print(n+" ");
         printDec(n-1);
     }
+
     //poblem 2:print the series upto 10
     public static void printInc(int n){
         if(n==1){
@@ -21,6 +22,7 @@ public class a {
             printInc(n-1);
             System.out.print(n+" ");
     }
+
     //problem 3:print factorial of number n
     public static int fact(int m){
         if(m==0){
@@ -29,6 +31,7 @@ public class a {
         int x=m*fact(m-1);
         return x;
     }
+
     //problem 4:print sum of first n natural numbers
     public static int natNum(int n){
         if(n==1){
@@ -37,6 +40,7 @@ public class a {
         int sum=n+natNum(n-1);
         return sum;
     }
+
     //problem 5:print nth fibonacci number
     public static int fib(int x){
         if(x==0 || x==1){
@@ -44,10 +48,18 @@ public class a {
         }
         return fib(x-1)+fib(x-2);
     }
+
     //problem 6:check if a given array is sorted or not
-    public static void arrSort(int arr[]){
-        
+    public static boolean arrSort(int arr[],int i){
+        if(i==arr.length-1){
+            return true;
+        }
+        if(arr[i]>arr[i+1]){
+            return false;
+        }
+        return arrSort(arr,i+1);
     }
+
     //logic:base case define,kaam kya krna hai pta ho ,inner fx ko call lagana
     public static void main(String args[]){
          int n=5;
@@ -63,6 +75,9 @@ public class a {
 
          System.out.println(natNum(n));
          System.out.println(fib(x));
+         
+         int arr[]={1,2,3,4,5};
+         System.out.println(arrSort(arr,0));
          //call Stack while recursion 
          //Stack overflow when base is not there
 
