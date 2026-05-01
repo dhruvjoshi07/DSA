@@ -76,6 +76,7 @@ public class a {
          System.out.println(natNum(n));
          System.out.println(fib(x));
          
+         System.out.println();
          int arr[]={1,2,3,4,5};
          System.out.println(arrSort(arr,0));
          //call Stack while recursion 
