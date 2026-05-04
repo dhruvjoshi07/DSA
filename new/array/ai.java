@@ -1,5 +1,6 @@
 //question practice from chatgpt
-class Solution {
+package array;
+public class ai{
     public void rotate(int[] nums, int k) {
         int n = nums.length;
         k %= n; 
