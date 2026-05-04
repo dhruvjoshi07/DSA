@@ -1,8 +1,8 @@
-/* 
+
 // Shopping price java
 package que;
 
-public class sp {
+public class SumArray {
     public class Shopping {
     public static void main(String[] args) {
         int[] prices = {120, 250, 75, 300, 90, 150};
@@ -30,7 +30,7 @@ public class sp {
 }
 
 }
-
+/* 
 public class PrintArray {
     public static void main(String[] args) {
         int[] arr = {10, 20, 30, 40, 50};
@@ -42,7 +42,7 @@ public class PrintArray {
     }
 }
 
-*/
+
 public class SumArray {
     public static void main(String[] args) {
         int[] arr = {5, 10, 15, 20};
@@ -55,3 +55,4 @@ public class SumArray {
         System.out.println("Sum of array elements = " + sum);
     }
 }
+    */
