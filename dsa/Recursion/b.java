@@ -17,11 +17,15 @@ public class b {
         if(i==arr.length){
             return -1;
         }
-        
+        int isFound=lastocc(arr,key,i+1);
+        if(isFound==-1 && arr[i]==key){
+            return i;
+        }
+        return isFound;
     }
     public static void main(String args[]){
         int arr[]={4,6,1,8,2,8};
         System.out.print(firstocc(arr,0,2));
-
+        System.out.print(lastocc(arr,0,8));
     }
 }
