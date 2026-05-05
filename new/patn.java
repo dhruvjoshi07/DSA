@@ -18,3 +18,4 @@ public class patn {
         starpattern(4);
     }
 }
+//Hence we got
