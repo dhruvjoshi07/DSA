@@ -4,6 +4,7 @@ public class again{
         try(Scanner sc= new Scanner(System.in)){
         int a=sc.nextInt();
         int b= sc.nextInt();
+            System.out.println("");
         if(a<b){
             System.out.println("B is greate than a: "+b);
         }else{
