@@ -14,4 +14,4 @@ The repository is organized into three phases of my preparation journey:
 - 🚀 **New** → Improved solutions, advanced topics, and optimized approaches
 - 🔄 **Restart** → Structured revision and fresh problem-solving practice from scratch
 
-The goal of this repository is to strengthen problem-solving skills, improve coding efficiency, and prepare for coding interviews and competitive programming.
+The goal of this repository is to strengthen problem-solving skills, improve coding efficiency, and prepare for coding interviews and competitive programming...
