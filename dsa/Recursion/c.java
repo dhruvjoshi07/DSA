@@ -11,6 +11,10 @@ public class c {
     }
 
     //Problem:Optimized Print x^n in 0(log n)
+    /*
+    if n=even,x^n(2^10)=x^n/2 * x^n/2
+    if n=odd,x^n(2^5)=x*x^n/2 * x^n/2
+    */
     public static void main(String[] args){
         System.out.println(power(2,10));
     }
