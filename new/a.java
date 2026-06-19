@@ -3,7 +3,7 @@ public class a {
         char ch='A';
         for(int line=1;line<=n;line++){
             for(int chars=1;chars<=line;chars++){
-                System.out.print(+" "+ch);
+                System.out.print(" "+" "+ch);
                 ch++;
             }
             System.out.println();
