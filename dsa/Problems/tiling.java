@@ -22,10 +22,11 @@ public class tiling {
         return totalways;
     }
      public static void main(String[] args){
-        Scanner sc=new Scanner(System.in);
+        try(Scanner sc=new Scanner(System.in)){
         System.out.print("What should be length of floor(2 x n): ");
         int length=sc.nextInt();
         System.out.println("The number of ways tiles can fit on floor(horizontally or vertically): "+til(length));
         sc.close();
+        }
     }
-}
+} 
