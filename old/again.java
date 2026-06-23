@@ -11,6 +11,7 @@ public class again{
             System.out.println("A is greater than b: "+a);
             }
         }
+        sc.close()
     }
     System.out.println();
 }
