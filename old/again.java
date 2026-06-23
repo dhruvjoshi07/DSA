@@ -12,5 +12,6 @@ public class again{
             }
         }
     }
+    System.out.println();
 }
 
