@@ -4,12 +4,15 @@ public class again{
         try(Scanner sc= new Scanner(System.in)){
         int a=sc.nextInt();
         int b= sc.nextInt();
+            System.out.println("finding....");
         if(a<b){
             System.out.println("B is greate than a: "+b);
         }else{
             System.out.println("A is greater than b: "+a);
             }
         }
+        sc.close()
     }
+    System.out.println();
 }
 

@@ -29,6 +29,7 @@ public class a {
         String firstName="Muskan";
         String lastName="Dixit";
         String fullName=firstName+" "+lastName;
+        System.out.println();
         System.out.println(fullName+"is my name");
         }
     }
