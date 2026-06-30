@@ -2,7 +2,7 @@ package Problems;
 // conditions ese hai bs a-z aa skte na ki A,@ ,etc.isliye liye hammei hash usena padega
 // index find=currchar-'a'
 public class StrDuplicate {
-    public static void removeduplicates(String str,Stringbuilder newStr,int index,boolean arr[]){
+    public static void removeduplicates(String str,StringBuilder newStr,int index,boolean arr[]){
         //base case
         if(index == str.length()){
             System.out.println(newStr);
