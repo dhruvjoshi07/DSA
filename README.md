@@ -10,7 +10,7 @@ This repository contains my journey of learning and practicing Data Structures &
 The repository is organized into three phases of my preparation journey:
 
 - 🗂️ **Old** → Initial DSA practice and foundational problems
-- 🚀 **New** → Improved solutions, advanced topics, and optimized approaches
+- 🚀 **New** → Improved solutions, advanced topics, and optimized approaches in different topics
 - 🔄 **Restart** → Structured revision and fresh problem-solving practice from scratch and with more topics
 
 The goal of this repository is to strengthen problem-solving skills, improve coding efficiency, and prepare for coding interviews and competitive programming....
