@@ -1,0 +1,59 @@
+-Memorization(MEMO) concept in fibonacci series
+
+-exception:
+    A. InputMismatchExceptionYeh 
+    
+        kya hai? Jab tum Scanner se input maang rahe ho kuch aur, par user daal de kuch aur.Kahan
+     use hota hai? Jaise tumhare code me sc.nextInt() likha hai (jo integer expect karta hai), aur user ne wahan apna naam "Rahul" 
+     ya point wala number 5.5 daal diya.Kaise handle karte hain? Ise hum catch (InputMismatchException e) block me daal kar user 
+     ko saaf message dikha sakte hain: "Bhai, sahi number daalo!"
+     
+     B. IllegalArgumentExceptionYeh kya hai? Jab kisi function ko call
+        karte waqt tum usme galat ya invalid value (argument) bhej dete ho jo us function ke rules ke khilaf hai.Kahan use hota hai? 
+      Tumne code me lagaya hai: throw new IllegalArgumentException("Number must be non-negative.");Kyunki factorial kabhi negative
+       number (jaise $-5$) ka nahi nikal sakta. Agar koi chalaki se negative number pass karega, toh hum jaanbujhkar ye exception
+        throw (feink) denge taaki program aage na badhe.
+        
+    2. Exceptions Ke Do Main Types (The Big Family)Java me exceptions do bade 
+        groups me divided hote hain:
+    🟩 Checked Exceptions (Compile-time)Yeh wo galtiyan hain jo Java ka compiler code likhte waqt hi pakad leta hai. Wo bolta hai:
+         "Pehle isko handle karo, warna code chalne hi nahi dunga." (Yeh mostly tab aate hain jab hum computer se bahar ki duniya se 
+         interact karte hain, jaise files ya internet).
+    *IOException:
+         Jab file read ya write karte waqt koi dikkat aaye (jaise file delete
+          ho gayi ho).
+    *FileNotFoundException:
+         Jab tum kisi aisi file ko open karne ki koshish karo jo computer me exist hi nahi karti.
+    🟥 Unchecked Exceptions (Runtime)Yeh wo galtiyan hain jo compile toh aaram se ho jati hain, par jab program actual me chal raha
+         hota hai tab sudden blast karti hain. (Yeh mostly developer ki logic ki galti hoti hain).
+    *NullPointerException (NPE): Java ka 
+         sabse bada villain! Jab tum kisi aisi cheez (object) par kaam karne ki koshish karo jo null hai (yani memory me bani hi 
+         nahi).
+        
+    *ArrayIndexOutOfBoundsException: Jab tum array ke size se bahar ka element access karo. Jaise size 5 hai aur tum array[10]
+          mang rahe ho.ArithmeticException: Jab tum math ka koi illegal rule todte ho, jaise kisi number ka divide by zero ($5 / 0$) karna.
+          3. Inko Kahan-Kahan Aur Kaise Use Karte Hain?Hume Exceptions ka use do tarike se karna hota hai:Catch Karna (Handle Karna):Jab 
+          hume pata ho ki user galat input de sakta hai ya internet band ho sakta hai, toh unsafe code ko try me daal kar catch kar lete 
+          hain.Javatry {
+    int result = 10 / 0; // Galti!
+} catch (ArithmeticException e) {
+    System.out.println("Zero se divide nahi kar sakte boss!");
+}
+Throw Karna (Jaanbujhkar Error Dena):Jab tum apna khud ka koi rule banana chahte ho (jaise tumne 
+Factorial me banaya). Agar kisi ne rule toda, toh tum khud bolte ho throw new Exception().Javapublic void setAge(int age) {
+    if (age < 18) {
+        // Apni taraf se exception throw kar diya
+        throw new IllegalArgumentException("Dukan me aana mana hai, age 18+ honi chahiye!");
+    }
+}
+💡 Pro-Tip for your Code:Tumne apne main method ke aakhiri catch block me catch (Exception e) lagaya hai.
+     Yeh ek "Catch-All" net ki tarah hai. Agar InputMismatchException ke alawa koi aur naya gaddha 
+     (jaise out of memory) aaya, toh yeh Exception e use bhi pakad lega aur program ko crash hone se bacha lega!
+
+-RULE SWITCH    //yea isliye use hota taki hammei switch mei bar bar 'break;' na use krna padhe
+    switch (choice) {
+            case 1 -> {
+            }
+            case 0 -> {}
+            default ->
+    }
